@@ -11,6 +11,6 @@ The goal of this repository is not just to store answers, but to **understand co
 - ✅ Clean and readable code solutions  
 - 🧠 Focus on **core intuition and logic**
 - ⏱️ Time & Space Complexity analysis (where applicable)
-- 📂 Problems organized by **topic / difficulty / problem number**
+- 📂 Problems organized by topic
 
 ---
